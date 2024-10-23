@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B2ym+YCRRPMDZJ/qpviT2MQZcHvrpu3fqsxdcUcGTp8=",
+  "Source": "FaceRecognition",
+  "BasePath": "_content/FaceRecognition",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
